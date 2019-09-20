@@ -1,0 +1,4 @@
+git repo cc.dll
+
+depend on :cc.dll
+

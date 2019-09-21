@@ -1,4 +1,6 @@
 git repo cc.dll
 
 depend on :cc.dll
-
+depend on :kai.dll
+download repo
+download dependencies for :cc.dll

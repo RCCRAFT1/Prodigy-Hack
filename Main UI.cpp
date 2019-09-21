@@ -13,3 +13,8 @@ set for try
 if id is not "202-302", do "303-403"
 set for try
 if id is not in range of "303-403", do "403-1000"
+set for try 
+if id is not in range of "403-1000", stop
+reset range if id is not (specified)
+goto (setvalue)
+then, try value of class

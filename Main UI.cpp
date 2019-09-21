@@ -18,3 +18,5 @@ if id is not in range of "403-1000", stop
 reset range if id is not (specified)
 goto (setvalue)
 then, try value of class
+if class is not value, reset range to (0)
+if id is not (0), reset 

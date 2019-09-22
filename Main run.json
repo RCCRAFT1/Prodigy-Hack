@@ -1,0 +1,6 @@
+for communicate.net,
+load cc.dll
+then load kai.dll
+run depend on cc.dll
+<command></command>
+git repo install

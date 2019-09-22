@@ -22,3 +22,5 @@ if class is not value, reset range to (0)
 if id is not (0), reset 
 if id is (0), try class
 if class does not match range, reset
+if reset does not match range, do id (0) to (input)
+if set matches range, reset class for id (0) to <input>(100000)</input>

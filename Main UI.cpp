@@ -20,3 +20,5 @@ goto (setvalue)
 then, try value of class
 if class is not value, reset range to (0)
 if id is not (0), reset 
+if id is (0), try class
+if class does not match range, reset

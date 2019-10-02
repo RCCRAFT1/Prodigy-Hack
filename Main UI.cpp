@@ -24,3 +24,7 @@ if id is (0), try class
 if class does not match range, reset
 if reset does not match range, do id (0) to (input)
 if set matches range, reset class for id (0) to <input>(100000)</input>
+ifStar is (0), collect for <input>
+ifLevel is (0 or more), class for set <input>
+ifMember is (1), set (0) commenicate for webserver
+if

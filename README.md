@@ -1,5 +1,5 @@
-# Scamming-Scammers
-Scam Scammers With This Tool!
+# Prodigy-Hack
+Hack Prodigy With This Tool!
 
 I update this tool a little bit everyday so it's prepaired for it's final devopment.
 I will update this tool to make it work.

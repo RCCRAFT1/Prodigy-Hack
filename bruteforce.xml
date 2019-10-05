@@ -7,3 +7,6 @@ for <a></a>
 insert <command/> for feild 
 <aside></aside>
 if feild is not correct, do <feild></feild>
+if </brute> is correct, do load repo
+<supress></supress>
+if input is correct, do </brute>

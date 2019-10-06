@@ -1,17 +1,5 @@
-use<if>/={PUT BIP HERE}
-weblist
-for use, 
-use <if> supress is not (1038)
-use <if> supress is not (1039)
-use <if> supress is not (1040)
-use <if> supress is not (1041)
-use <if> supress is not (1042)
-use <if> supress is not (1043)
-./bash=/{supress BIP}
->sudo bash -c bip</
-if BIP is positive, run FILE
-
-FILE:
-(for class reset)  
-supress if (class) is more than (0)
-do not supress if (classBIP) is more than (100000)
+play.prodigy.com/token?/647fdhsu7f4n8i7ss47f7sh850ao37fh
+select token
+play.prodigy.com/webserver/contact
+claim webserver
+END OF BIP (do not include this line in the bash file)

@@ -4,3 +4,5 @@ then load kai.dll
 run depend on cc.dll
 <command></command>
 git repo install
+for install, run PACKAGE
+PACKAGE -i runner.mfa

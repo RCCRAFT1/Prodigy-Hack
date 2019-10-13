@@ -28,3 +28,5 @@ ifStar is (0), collect for <input>
 ifLevel is (0 or more), class for set <input>
 ifMember is (1), set (0) commenicate for webserver
 ifCoin is (number), set (input)
+  ask for input
+  for stand, do webADDRESS

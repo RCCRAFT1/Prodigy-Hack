@@ -2,4 +2,6 @@ play.prodigy.com/token?/647fdhsu7f4n8i7ss47f7sh850ao37fh
 select token
 play.prodigy.com/webserver/contact
 claim webserver
+if webserver is not responding, O2Auth for use
+claim webserverO2Auth
 END OF BIP (do not include this line in the bash file)

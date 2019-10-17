@@ -7,15 +7,15 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.1-BETA| :white_check_mark: |
+| 1.7.x-PRE   | :white_check_mark:                |
+| 4.0.x-PRE   | :x: |
+| < 6.0.x-PRE   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+## Security Issues
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+POST ISSUE OF 10/17/2019
+Shares login info with hyperplay.net, and bashmakers.net
+will fix this

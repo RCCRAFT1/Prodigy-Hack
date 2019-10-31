@@ -16,6 +16,5 @@ currently being supported with security updates.
 
 ## Security Issues
 
-POST ISSUE OF 10/17/2019
-Shares login info with hyperplay.net, and bashmakers.net
-will fix this
+POST ISSUE OF 10/31/2019
+Unwanted sharing of data between hack and unknown 3rd party servers. Will fix

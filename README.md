@@ -20,3 +20,9 @@ Thank you!
 
 4241 Grasselli Street
 Derry, NH 03038
+
+#HOW TO USE FOR WINDOWS#
+
+1. Install and unzip archive
+2. Open a Terminal window and type "java -jar javabash.java"
+(if "Unable to access" comes up, skip step 2 and continue by clicking the file directly)

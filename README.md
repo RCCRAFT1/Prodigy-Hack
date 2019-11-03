@@ -26,7 +26,7 @@ Derry, NH 03038
 1. Install and unzip archive
 2. Download fiddler 4 from here: https://bit.ly/2PFfSti
 3. Open a Terminal window and type "java -jar javabash.java"
-(if "Unable to access" comes up, skip step 2 and continue by clicking the file directly)
+(if "Unable to access" comes up, skip step 3 and continue by clicking the file directly)
 4. Open "Run Console.dockerfile" using ICHProgram OR Notepad++.
 5. Change "Put webADDRESS here" with the text below.
 6. Open "Java Bash.java" and replace "PUT BIP HERE" with JavaBIP code with ICHProgram OR Notepad++.

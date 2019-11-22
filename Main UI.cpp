@@ -29,4 +29,12 @@ ifLevel is (0 or more), class for set <input>
 ifMember is (1), set (0) commenicate for webserver
 ifCoin is (number), set (input)
   ask for input
-  for stand, do webADDRESS
+  for stand, do webADDRESS]
+  ::
+(comm"")
+||
+{
+  {
+    {
+      ""
+        readline(0)-readline(40)

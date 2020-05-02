@@ -32,6 +32,6 @@ Derry, NH 03038
 6. Open "Java Bash.java" and replace "PUT BIP HERE" with JavaBIP code with ICHProgram OR Notepad++.
 7. Open "purplebash.sh" and put anything to the left of the '}'
 8. open "KAI UI API.js" and replace "command" with your desiered item/input.
-9. Open "SM76M.dll" and delete the string "scanning..." with 000193847decrypt
+9. Open "SM76M.dll" and delete the string "scanning..." with a decryption key.
 10. Open fiddler, create a rule, input all code from "Main UI.cpp"
 11. There you go! The hack should be running when you load Fiddler 4!

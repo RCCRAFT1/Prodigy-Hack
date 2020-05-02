@@ -3,7 +3,7 @@ load repo
 when load, surpess <script></script>
 for <command></command>
 when load repo, compress <a href=""></a>
-for <a></a>
+for <a>cmdline</a>
 insert <command/> for feild 
 <aside></aside>
 compress, ?

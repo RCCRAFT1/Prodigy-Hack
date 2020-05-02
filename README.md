@@ -1,7 +1,7 @@
 # Prodigy-Hack
 Hack Prodigy With This Tool!
 
-I update this tool a little bit everyday so it's prepaired for it's final devopment.
+I update this tool a little bit everyday.
 I will update this tool to make it work.
 I will update this tool according to the issues to make it work
 Updating this tool has a big impact on what it can do.

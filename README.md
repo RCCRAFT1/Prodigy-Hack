@@ -1,4 +1,6 @@
 # Prodigy-Hack
-Something big is coming...
+Prodigy hack has been released!
 
-Join the discord: https://discord.gg/5GxGvnsy3y
+Use this tool in the devtools console window of your browser (chrome).
+
+Join the discord for update alerts and more!: https://discord.gg/5GxGvnsy3y

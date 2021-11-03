@@ -131,11 +131,17 @@ function DevTools.parse() {
   layerAppendCommand(n)
   function DevTools.consoleCallback(console.log)
   console.log() => "" || document.null()
+  const log.finder(findLength){
+    if(requiredLength -> 10){
+      var required = null;
+    }
+  }
 }
 function DevTools.runLayerAssist() {
   var Path(n) {
     new PathValueLayer(0) == null;
     new PathValueLayer(1) == null;
+    new PathValueLayer(2) == null;
   }
   var PathContextLength() {
     for ContextLength.function() && function.layerEnumType() {

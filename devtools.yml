@@ -1,0 +1,38 @@
+# Universal DEVTOOLS Configuration File
+#
+#
+#
+# Note: This file is only to be used for DevTools easy integration systems. Any malicious use will cause your license to be revoked.
+# THIS WILL ONLY WORK IF YOU HAVE THE DEVTOOLS.JS FILE!!!!
+#  _____          _______          _     
+# |  __ \        |__   __|        | |    
+# | |  | | _____   _| | ___   ___ | |___ 
+# | |  | |/ _ \ \ / / |/ _ \ / _ \| / __|
+# | |__| |  __/\ V /| | (_) | (_) | \__ \
+# |_____/ \___| \_/ |_|\___/ \___/|_|___/
+
+
+#UF Identifiers: These are important for DevTools to know your program name, function commands, and weather or not you'll be using function commands
+UF-Identifier: ProdigyHackv1
+UF-DevToolsCommand: functionCommand
+UF-UniversalCommandFunction: null
+
+
+# SFE Identifiers: These tell DevTools your universal program commands and website integrations.
+SFE-ProgramCommandSite: str: https://prodigy.com
+SFE-ProgramUniversalSiteIdentifier: devtools.menuIntegration #Inspect Element. Use devtools.externalConsoleIdentifier for an external window/CLI.
+SFE-FunctionCommandSite: onlyFunctionJavascript
+
+# GUI Identifiers: This tells DevTools weather or not you'll be using a universal GUI and want to interface the program with DevTools for easier access.
+GUI-Identifier: false
+
+# SFI Identifiers: These tell DevTools if you will be using a packet command.
+SFI-PacketSendIdentifier: true
+SFI-PacketIdentifierReturnProperty: true
+
+# SCRIPT Identifiers: This allows you to add your own things to DevTools. A scripting API was integrated, however there is no documentation. Here is an example of a extra packet Identifier sender with SCRIPT Identifiers.
+#SCRIPT-PacketClassTag: function
+#SCRIPT-ChallengePacketTag: varDevToolsPacketSend
+
+
+

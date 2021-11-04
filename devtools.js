@@ -197,6 +197,8 @@ function classListenerCommand() {
   new commandFunction("crashServer")
   new commandStatement("crashServerGlobal")
 
+  new commandFunction("bypass")
+  new commandStatement("bypassGlobal")
 
   new commandFunction("callback")
 }

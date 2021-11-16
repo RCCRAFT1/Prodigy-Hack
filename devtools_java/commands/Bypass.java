@@ -3,6 +3,7 @@ package devtools_java.commands;
 import prodigy_hack.appendPacket.PacketSend;
 import prodigy_hack.event.Event;
 import prodigy_hack.packet.C00Commons;
+import prodigy_hack.packet.C01PacketPlayer;
 import prodigy_hack.packet.C16PacketProtectionToggle;
 
 public class Bypass {
@@ -19,6 +20,7 @@ public class Bypass {
             do{
                 C16PacketProtectionToggle.toggle();
                 C16PacketProtectionToggle.togglePacket();
+                C01PacketPlayer.getPacketPlayer();
                 C00Commons.getCommonPacket();
                 PacketSend.send();
             }while(null != null);

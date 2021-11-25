@@ -6,6 +6,7 @@ public enum LoadCommands {
     INSTAKILL,
     ITEMS,
     MEMBERSHIP,
+    BYPASS,
     STARS;
 
     public boolean  prod(){

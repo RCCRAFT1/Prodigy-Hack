@@ -7,7 +7,8 @@ public enum LoadCommands {
     ITEMS,
     MEMBERSHIP,
     BYPASS,
-    STARS;
+    STARS,
+    FLAG;
 
     public boolean  prod(){
         return this.prod();

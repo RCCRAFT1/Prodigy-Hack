@@ -13,6 +13,9 @@ public class Bypass {
     public int bypass;
     public int bypassGlobal;
 
+    public static String setBypassLength;
+    public int bypassMaxLength;
+
     public void bypassCommand(){
         return;
     }{
@@ -20,13 +23,14 @@ public class Bypass {
             do{
                 C16PacketProtectionToggle.toggle();
                 C16PacketProtectionToggle.togglePacket();
-                C01PacketPlayer.getPacketPlayer();
+                C01PacketPlayer.Game();
                 C00Commons.getCommonPacket();
                 PacketSend.send();
             }while(null != null);
         }else{
             Event.eventUpdate(0);
         }
+
     }
 
     public Bypass(int bypass, int bypassGlobal) {
@@ -58,4 +62,6 @@ public class Bypass {
     public void setBypassGlobal(int bypassGlobal) {
         this.bypassGlobal = bypassGlobal;
     }
+
+
 }

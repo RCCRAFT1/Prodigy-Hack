@@ -1,5 +1,4 @@
 package prodigy_hack.event;
-import prodigy_hack.event.Event;
 
 
 public class EventEncoder {
